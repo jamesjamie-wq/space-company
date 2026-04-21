@@ -63,9 +63,9 @@ function updateLabCost(){
 	labT3GemCost = Math.floor(4700 * Math.pow(1.1,labT3) * labT2PlusMulti);
 	labT3MetalCost = Math.floor(17000 * Math.pow(1.1,labT3) * labT2PlusMulti);
 
-	labT4MetalCost = Math.floor(610000 * Math.pow(1.1,labT4) * labT2PlusMulti);
-	labT4GemCost = Math.floor(37000 * Math.pow(1.1,labT4) * labT2PlusMulti);
-	labT4WoodCost = Math.floor(926000 * Math.pow(1.1,labT4) * labT2PlusMulti);
+	labT4MetalCost = Math.floor(6 * Math.pow(1.1,labT4) * labT2PlusMulti);
+	labT4GemCost = Math.floor(3 * Math.pow(1.1,labT4) * labT2PlusMulti);
+	labT4WoodCost = Math.floor(9 * Math.pow(1.1,labT4) * labT2PlusMulti);
 
 	labT5MetalCost = Math.floor(12400000 * Math.pow(1.1,labT5) * labT2PlusMulti);
 	labT5GemCost = Math.floor(7300000 * Math.pow(1.1,labT5) * labT2PlusMulti);
