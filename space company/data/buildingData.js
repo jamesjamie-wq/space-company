@@ -43,11 +43,11 @@ Game.buildingData = (function () {
         resource: 'energy',
         resourcePerSecond: {
             'energy': 23000,
-            'methane': -6
+            'methane': -1
         },
         cost: {
-            'lunarite': 110,
-            'titanium': 90
+            'lunarite': 8,
+            'titanium': 9
         }
     });
 
