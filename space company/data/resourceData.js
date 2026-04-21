@@ -43,7 +43,7 @@ Game.resourceData = (function () {
         desc: 'Energy is created by power sources such as steam engines, solar power and advances even to fusion power and nuclear energy. The maximum you can hold to start with is 100,000 Energy, but batteries are unlockable which can increase this.',
         icon: 'energyIcon',
         category: 'energy',
-        baseCapacity: 50000,
+        baseCapacity: 50000000,
         unlocked: false
     };
 
