@@ -92,7 +92,7 @@ Game.resourceData = (function () {
         desc: 'Metal is one of the primary resources. It is used for many things, including storage upgrades, machinery and most things in space.',
         icon: 'metalIcon',
         category: 'earth',
-        baseCapacity: 50,
+        baseCapacity: 5000000,
         unlocked: true
     };
 
